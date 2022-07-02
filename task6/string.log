@@ -1,0 +1,12 @@
+2022-07-02 23:38:36,653 - root - INFO - extract function --> iswhn
+2022-07-02 23:38:36,653 - root - INFO - extract function --> iswhn
+2022-07-02 23:38:36,654 - root - INFO - split function --> ['HITESH', 'WADHWANI']
+2022-07-02 23:38:36,654 - root - INFO - lower_case function --> hitesh wadhwani
+2022-07-02 23:38:36,654 - root - INFO - capitalize function --> Hitesh wadhwani
+2022-07-02 23:38:36,654 - root - INFO - expand_tab function --> on string H	i	t	e	s	h is H       i       t       e       s       h
+2022-07-02 23:38:36,654 - root - INFO - strip function --> hitesh wadhwani
+2022-07-02 23:38:36,654 - root - INFO - ltrip function --> hitesh wadhwani
+2022-07-02 23:38:36,654 - root - ERROR - Error inside rstrip function
+2022-07-02 23:38:36,654 - root - ERROR - name 'ans' is not defined
+2022-07-02 23:38:36,654 - root - INFO - replace function --> HitesH wadHwani
+2022-07-02 23:38:36,654 - root - INFO - string_centre function --> #######hitesh wadhwani########
